@@ -1,0 +1,5 @@
+C:\Users\mayow\source\repos\LearnWithPride\LearnWithPride\obj\Debug\net6.0\LearnWithPride.csproj.AssemblyReference.cache
+C:\Users\mayow\source\repos\LearnWithPride\LearnWithPride\obj\Debug\net6.0\LearnWithPride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayow\source\repos\LearnWithPride\LearnWithPride\obj\Debug\net6.0\LearnWithPride.AssemblyInfoInputs.cache
+C:\Users\mayow\source\repos\LearnWithPride\LearnWithPride\obj\Debug\net6.0\LearnWithPride.AssemblyInfo.cs
+C:\Users\mayow\source\repos\LearnWithPride\LearnWithPride\obj\Debug\net6.0\LearnWithPride.csproj.CoreCompileInputs.cache
